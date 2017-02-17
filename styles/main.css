@@ -1,0 +1,138 @@
+
+
+header {
+
+  overflow: hidden;
+  background: #f9c804;
+}
+h1 {
+  color: #fff;
+}
+nav li {
+    display: inline-block;
+
+}
+
+
+
+nav li a {
+
+  padding: 1em;
+ width:85px;
+	height:85px;
+color : #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9c804;
+
+
+  text-decoration:none;
+  	border-radius:50%;
+
+}
+
+
+/*bandeau qui bouge avec image fixe stylé*/
+h1 {
+
+
+}
+
+div {
+  background-color: #090909;
+background-image: url('ruche.jpg');
+background-position: 0 100px;
+background-repeat: x-repeat;
+background-attachment:fixed;
+
+}
+
+
+
+
+
+ol{
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+
+}
+
+
+#color-1 {
+ background-color: rgb(177,226,226);
+}
+
+#color-2 {
+ background-color: rgb(154,172,253);
+}
+
+#color-3 {
+ background-color: rgb(25,130,147);
+}
+
+#color-4 {
+ background-color: rgb(249,213,173);
+}
+#color-5 {
+ background-color: rgb(224,205,131);
+}
+#color-6 {
+ background-color: rgb(23,106,89);
+}
+
+#colors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content : center;
+  text-align : center;
+ text-transform: uppercase;
+ font-size: 2em;
+
+}
+#colors li {
+  padding: 1em;
+ width:85px;
+	height:85px;
+color : #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration:none;
+  	border-radius:50%;
+
+}
+
+
+ol {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: rgb(224,205,131);
+}
+
+ol li {
+  border : 0px solid #000;
+  width : 20px;
+  margin : 6px;
+  color: rgb(224,205,131);
+
+
+}
+
+li img {
+  width : 100%;
+}
+
+
+
+ul{
+  background-image: "ruche.jpg"
+}
+
+.video1{
+  background-color: #000;
+}
