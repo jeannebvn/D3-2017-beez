@@ -1,0 +1,32 @@
+h1 {
+  font-family: 'Bahiana', cursive;
+  font-size: 92px;
+
+}
+
+
+
+p {
+  font-family: 'Open Sans', sans-serif;
+font-weight: 300;
+}
+
+a{
+font-family: 'Bahiana', cursive;
+
+  font-size: 15px;
+}
+
+div  {
+
+  font-family: 'Bahiana', cursive;
+  font-size: 92px;
+color: #fff;
+}
+
+
+#colors{
+  font-family: 'Bahiana', cursive;
+  font-size: 20px;
+color: #fff;
+}
